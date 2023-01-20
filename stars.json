@@ -2,7 +2,7 @@
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 26,
-    "open_issues_count": 48,
+    "open_issues_count": 50,
     "forks_count": 31
   },
   {
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "alok722/namaste-javascript-notes",
-    "stargazers_count": 699,
+    "stargazers_count": 706,
     "open_issues_count": 2,
-    "forks_count": 290
+    "forks_count": 292
   },
   {
     "full_name": "wil-gerard/git-connected",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "ugglr/Remote-Developer-jobs-directory",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 1,
     "forks_count": 47
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 51406,
-    "open_issues_count": 91,
-    "forks_count": 7271
+    "stargazers_count": 51530,
+    "open_issues_count": 93,
+    "forks_count": 7297
   },
   {
     "full_name": "ankitpriyarup/Coding_Notes",
     "stargazers_count": 1501,
     "open_issues_count": 1,
-    "forks_count": 781
+    "forks_count": 783
   },
   {
     "full_name": "Kennygunderman/react-blog",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "redux-utilities/flux-standard-action",
-    "stargazers_count": 4724,
+    "stargazers_count": 4725,
     "open_issues_count": 29,
     "forks_count": 158
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "DominicTobias/react-image-crop",
-    "stargazers_count": 3302,
-    "open_issues_count": 36,
-    "forks_count": 328
+    "stargazers_count": 3307,
+    "open_issues_count": 37,
+    "forks_count": 327
   },
   {
     "full_name": "syntacticsolutions/react-navigation-menu",
@@ -96,15 +96,9 @@
     "forks_count": 14
   },
   {
-    "full_name": "AABarnawal/-home-xeralate-react-tc",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": -1
-  },
-  {
     "full_name": "5t3ph/stylestage",
-    "stargazers_count": 1770,
-    "open_issues_count": 8,
+    "stargazers_count": 1769,
+    "open_issues_count": 7,
     "forks_count": 187
   },
   {
@@ -115,14 +109,14 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 244577,
+    "stargazers_count": 244835,
     "open_issues_count": 52,
-    "forks_count": 64963
+    "forks_count": 65016
   },
   {
     "full_name": "datapublishings/Course-python-data-science",
-    "stargazers_count": 235,
+    "stargazers_count": 238,
     "open_issues_count": 2,
-    "forks_count": 213
+    "forks_count": 214
   }
 ]
