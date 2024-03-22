@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "bob-fornal/demo-animations",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "shookcodes/shook-color-picker",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -19,21 +25,21 @@
   },
   {
     "full_name": "chrisblakely01/mern-booking-app",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 3,
     "forks_count": 59
   },
   {
     "full_name": "ashishps1/awesome-low-level-design",
-    "stargazers_count": 1999,
+    "stargazers_count": 2013,
     "open_issues_count": 0,
-    "forks_count": 537
+    "forks_count": 541
   },
   {
     "full_name": "hiteshchoudhary/chai-aur-react",
-    "stargazers_count": 4127,
-    "open_issues_count": 70,
-    "forks_count": 550
+    "stargazers_count": 4202,
+    "open_issues_count": 71,
+    "forks_count": 561
   },
   {
     "full_name": "trein/dev-best-practices",
@@ -51,13 +57,13 @@
     "full_name": "HariAcidReign/JavaScript-A-Z-Notes",
     "stargazers_count": 373,
     "open_issues_count": 2,
-    "forks_count": 156
+    "forks_count": 157
   },
   {
     "full_name": "alok722/namaste-javascript-notes",
-    "stargazers_count": 1214,
+    "stargazers_count": 1220,
     "open_issues_count": 0,
-    "forks_count": 540
+    "forks_count": 543
   },
   {
     "full_name": "wil-gerard/git-connected",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 59068,
+    "stargazers_count": 59104,
     "open_issues_count": 5,
-    "forks_count": 8446
+    "forks_count": 8450
   },
   {
     "full_name": "ankitpriyarup/Coding_Notes",
@@ -103,15 +109,15 @@
   },
   {
     "full_name": "welovedevs/react-ultimate-resume",
-    "stargazers_count": 2098,
+    "stargazers_count": 2100,
     "open_issues_count": 22,
-    "forks_count": 618
+    "forks_count": 619
   },
   {
     "full_name": "redux-utilities/flux-standard-action",
-    "stargazers_count": 4742,
+    "stargazers_count": 4741,
     "open_issues_count": 15,
-    "forks_count": 154
+    "forks_count": 142
   },
   {
     "full_name": "Awesome-Layer-2/awesome-layer-2",
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "sekoyo/react-image-crop",
-    "stargazers_count": 3699,
+    "stargazers_count": 3698,
     "open_issues_count": 53,
     "forks_count": 335
   },
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "5t3ph/stylestage",
-    "stargazers_count": 2077,
+    "stargazers_count": 2078,
     "open_issues_count": 7,
     "forks_count": 212
   },
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 280121,
+    "stargazers_count": 280243,
     "open_issues_count": 56,
-    "forks_count": 71984
+    "forks_count": 72020
   },
   {
     "full_name": "datapublishings/Course-python-data-science",
-    "stargazers_count": 285,
+    "stargazers_count": 284,
     "open_issues_count": 2,
     "forks_count": 237
   }
