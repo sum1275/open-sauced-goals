@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "fharper/coffeechat",
+    "stargazers_count": 301,
+    "open_issues_count": 4,
+    "forks_count": 56
+  },
+  {
     "full_name": "stubbornella/oocss",
-    "stargazers_count": 6239,
+    "stargazers_count": 6240,
     "open_issues_count": 72,
     "forks_count": 715
   },
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "chrisblakely01/mern-booking-app",
-    "stargazers_count": 191,
-    "open_issues_count": 7,
+    "stargazers_count": 193,
+    "open_issues_count": 8,
     "forks_count": 82
   },
   {
     "full_name": "ashishps1/awesome-low-level-design",
-    "stargazers_count": 4638,
-    "open_issues_count": 1,
-    "forks_count": 1163
+    "stargazers_count": 4675,
+    "open_issues_count": 0,
+    "forks_count": 1174
   },
   {
     "full_name": "hiteshchoudhary/chai-aur-react",
-    "stargazers_count": 5451,
-    "open_issues_count": 108,
-    "forks_count": 729
+    "stargazers_count": 5507,
+    "open_issues_count": 109,
+    "forks_count": 735
   },
   {
     "full_name": "trein/dev-best-practices",
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "alok722/namaste-javascript-notes",
-    "stargazers_count": 1292,
+    "stargazers_count": 1296,
     "open_issues_count": 0,
     "forks_count": 598
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "FarheenB/Data-Structures-and-Algorithms",
-    "stargazers_count": 141,
+    "stargazers_count": 140,
     "open_issues_count": 1,
     "forks_count": 34
   },
@@ -103,13 +109,13 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 60773,
-    "open_issues_count": 12,
-    "forks_count": 8649
+    "stargazers_count": 60819,
+    "open_issues_count": 13,
+    "forks_count": 8656
   },
   {
     "full_name": "ankitpriyarup/Coding_Notes",
-    "stargazers_count": 1609,
+    "stargazers_count": 1608,
     "open_issues_count": 1,
     "forks_count": 811
   },
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "redux-utilities/flux-standard-action",
-    "stargazers_count": 4749,
+    "stargazers_count": 4750,
     "open_issues_count": 15,
     "forks_count": 142
   },
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "sekoyo/react-image-crop",
-    "stargazers_count": 3757,
+    "stargazers_count": 3760,
     "open_issues_count": 59,
     "forks_count": 339
   },
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "5t3ph/stylestage",
-    "stargazers_count": 2092,
+    "stargazers_count": 2094,
     "open_issues_count": 7,
     "forks_count": 218
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 294939,
-    "open_issues_count": 46,
-    "forks_count": 74460
-  },
-  {
-    "full_name": "datapublishings/Course-python-data-science",
-    "stargazers_count": 291,
-    "open_issues_count": 2,
-    "forks_count": 241
+    "stargazers_count": 295176,
+    "open_issues_count": 47,
+    "forks_count": 74485
   }
 ]
