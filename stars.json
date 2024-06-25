@@ -43,21 +43,21 @@
   },
   {
     "full_name": "chrisblakely01/mern-booking-app",
-    "stargazers_count": 203,
-    "open_issues_count": 7,
+    "stargazers_count": 206,
+    "open_issues_count": 8,
     "forks_count": 83
   },
   {
     "full_name": "ashishps1/awesome-low-level-design",
-    "stargazers_count": 4862,
-    "open_issues_count": 1,
-    "forks_count": 1251
+    "stargazers_count": 4911,
+    "open_issues_count": 2,
+    "forks_count": 1262
   },
   {
     "full_name": "hiteshchoudhary/chai-aur-react",
-    "stargazers_count": 5764,
-    "open_issues_count": 114,
-    "forks_count": 762
+    "stargazers_count": 5855,
+    "open_issues_count": 117,
+    "forks_count": 780
   },
   {
     "full_name": "trein/dev-best-practices",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "HariAcidReign/JavaScript-A-Z-Notes",
-    "stargazers_count": 377,
+    "stargazers_count": 378,
     "open_issues_count": 2,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "alok722/namaste-javascript-notes",
-    "stargazers_count": 1314,
+    "stargazers_count": 1317,
     "open_issues_count": 0,
-    "forks_count": 607
+    "forks_count": 609
   },
   {
     "full_name": "wil-gerard/git-connected",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "max-mapper/callback-hell",
-    "stargazers_count": 840,
+    "stargazers_count": 843,
     "open_issues_count": 19,
     "forks_count": 98
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 60990,
+    "stargazers_count": 61047,
     "open_issues_count": 18,
-    "forks_count": 8679
+    "forks_count": 8683
   },
   {
     "full_name": "ankitpriyarup/Coding_Notes",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "welovedevs/react-ultimate-resume",
-    "stargazers_count": 2114,
+    "stargazers_count": 2115,
     "open_issues_count": 22,
     "forks_count": 622
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "sekoyo/react-image-crop",
-    "stargazers_count": 3766,
+    "stargazers_count": 3768,
     "open_issues_count": 59,
     "forks_count": 339
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "5t3ph/stylestage",
-    "stargazers_count": 2103,
+    "stargazers_count": 2105,
     "open_issues_count": 7,
     "forks_count": 219
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 296332,
-    "open_issues_count": 45,
-    "forks_count": 74693
+    "stargazers_count": 297004,
+    "open_issues_count": 44,
+    "forks_count": 74810
   }
 ]
