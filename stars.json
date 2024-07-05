@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "ashishps1/awesome-low-level-design",
+    "stargazers_count": 5169,
+    "open_issues_count": 2,
+    "forks_count": 1341
+  },
+  {
     "full_name": "shashankrustagi/GATE-CSE-NOTES",
-    "stargazers_count": 305,
+    "stargazers_count": 321,
     "open_issues_count": 0,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "fharper/coffeechat",
     "stargazers_count": 308,
-    "open_issues_count": 4,
-    "forks_count": 59
+    "open_issues_count": 5,
+    "forks_count": 60
   },
   {
     "full_name": "stubbornella/oocss",
@@ -49,21 +55,15 @@
   },
   {
     "full_name": "chrisblakely01/mern-booking-app",
-    "stargazers_count": 209,
+    "stargazers_count": 210,
     "open_issues_count": 8,
     "forks_count": 84
   },
   {
-    "full_name": "ashishps1/awesome-low-level-design",
-    "stargazers_count": 4967,
-    "open_issues_count": 2,
-    "forks_count": 1293
-  },
-  {
     "full_name": "hiteshchoudhary/chai-aur-react",
-    "stargazers_count": 5986,
-    "open_issues_count": 119,
-    "forks_count": 795
+    "stargazers_count": 6067,
+    "open_issues_count": 122,
+    "forks_count": 808
   },
   {
     "full_name": "trein/dev-best-practices",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "alok722/namaste-javascript-notes",
-    "stargazers_count": 1324,
+    "stargazers_count": 1330,
     "open_issues_count": 0,
-    "forks_count": 615
+    "forks_count": 616
   },
   {
     "full_name": "wil-gerard/git-connected",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 61221,
+    "stargazers_count": 61267,
     "open_issues_count": 18,
-    "forks_count": 8708
+    "forks_count": 8714
   },
   {
     "full_name": "ankitpriyarup/Coding_Notes",
     "stargazers_count": 1607,
     "open_issues_count": 1,
-    "forks_count": 815
+    "forks_count": 816
   },
   {
     "full_name": "Kennygunderman/react-blog",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "welovedevs/react-ultimate-resume",
-    "stargazers_count": 2114,
+    "stargazers_count": 2115,
     "open_issues_count": 22,
     "forks_count": 624
   },
   {
     "full_name": "redux-utilities/flux-standard-action",
-    "stargazers_count": 4751,
+    "stargazers_count": 4752,
     "open_issues_count": 15,
     "forks_count": 142
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "sekoyo/react-image-crop",
-    "stargazers_count": 3774,
+    "stargazers_count": 3777,
     "open_issues_count": 59,
-    "forks_count": 339
+    "forks_count": 340
   },
   {
     "full_name": "syntacticsolutions/react-navigation-menu",
