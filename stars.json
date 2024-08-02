@@ -1,25 +1,25 @@
 [
   {
     "full_name": "cosdensolutions/code",
-    "stargazers_count": 425,
+    "stargazers_count": 432,
     "open_issues_count": 4,
-    "forks_count": 179
+    "forks_count": 183
   },
   {
     "full_name": "ashishps1/awesome-low-level-design",
-    "stargazers_count": 5851,
-    "open_issues_count": 5,
-    "forks_count": 1548
+    "stargazers_count": 5916,
+    "open_issues_count": 2,
+    "forks_count": 1561
   },
   {
     "full_name": "shashankrustagi/GATE-CSE-NOTES",
-    "stargazers_count": 332,
+    "stargazers_count": 333,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 33
   },
   {
     "full_name": "fharper/coffeechat",
-    "stargazers_count": 315,
+    "stargazers_count": 313,
     "open_issues_count": 5,
     "forks_count": 61
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "chrisblakely01/mern-booking-app",
-    "stargazers_count": 217,
+    "stargazers_count": 220,
     "open_issues_count": 7,
     "forks_count": 91
   },
   {
     "full_name": "hiteshchoudhary/chai-aur-react",
-    "stargazers_count": 6608,
-    "open_issues_count": 128,
-    "forks_count": 857
+    "stargazers_count": 6668,
+    "open_issues_count": 130,
+    "forks_count": 865
   },
   {
     "full_name": "trein/dev-best-practices",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "alok722/namaste-javascript-notes",
-    "stargazers_count": 1356,
-    "open_issues_count": 0,
-    "forks_count": 629
+    "stargazers_count": 1362,
+    "open_issues_count": 1,
+    "forks_count": 630
   },
   {
     "full_name": "wil-gerard/git-connected",
@@ -105,7 +105,7 @@
     "full_name": "ugglr/Remote-Developer-jobs-directory",
     "stargazers_count": 601,
     "open_issues_count": 1,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "FarheenB/Data-Structures-and-Algorithms",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 61514,
+    "stargazers_count": 61535,
     "open_issues_count": 20,
-    "forks_count": 8758
+    "forks_count": 8760
   },
   {
     "full_name": "ankitpriyarup/Coding_Notes",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "redux-utilities/flux-standard-action",
-    "stargazers_count": 4755,
+    "stargazers_count": 4754,
     "open_issues_count": 15,
     "forks_count": 142
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "5t3ph/stylestage",
-    "stargazers_count": 2121,
+    "stargazers_count": 2122,
     "open_issues_count": 7,
     "forks_count": 221
   }
