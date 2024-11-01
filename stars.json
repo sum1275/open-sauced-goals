@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "dypsilon/frontend-dev-bookmarks",
+    "stargazers_count": 42495,
+    "open_issues_count": 124,
+    "forks_count": 5085
+  },
+  {
     "full_name": "cosdensolutions/code",
-    "stargazers_count": 547,
+    "stargazers_count": 554,
     "open_issues_count": 5,
-    "forks_count": 252
+    "forks_count": 254
   },
   {
     "full_name": "ashishps1/awesome-low-level-design",
-    "stargazers_count": 8175,
-    "open_issues_count": 5,
-    "forks_count": 2126
+    "stargazers_count": 8269,
+    "open_issues_count": 6,
+    "forks_count": 2146
   },
   {
     "full_name": "shashankrustagi/GATE-CSE-NOTES",
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "stubbornella/oocss",
-    "stargazers_count": 6230,
+    "stargazers_count": 6229,
     "open_issues_count": 72,
     "forks_count": 714
   },
@@ -63,13 +69,13 @@
     "full_name": "chrisblakely01/mern-booking-app",
     "stargazers_count": 261,
     "open_issues_count": 5,
-    "forks_count": 103
+    "forks_count": 104
   },
   {
     "full_name": "hiteshchoudhary/chai-aur-react",
-    "stargazers_count": 8088,
-    "open_issues_count": 159,
-    "forks_count": 1034
+    "stargazers_count": 8110,
+    "open_issues_count": 160,
+    "forks_count": 1039
   },
   {
     "full_name": "trein/dev-best-practices",
@@ -80,7 +86,7 @@
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 32,
-    "open_issues_count": 57,
+    "open_issues_count": 56,
     "forks_count": 38
   },
   {
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "alok722/namaste-javascript-notes",
-    "stargazers_count": 1473,
+    "stargazers_count": 1474,
     "open_issues_count": 1,
-    "forks_count": 681
+    "forks_count": 684
   },
   {
     "full_name": "wil-gerard/git-connected",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 62722,
+    "stargazers_count": 62750,
     "open_issues_count": 33,
-    "forks_count": 8906
+    "forks_count": 8909
   },
   {
     "full_name": "ankitpriyarup/Coding_Notes",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "welovedevs/react-ultimate-resume",
-    "stargazers_count": 2124,
+    "stargazers_count": 2126,
     "open_issues_count": 22,
     "forks_count": 625
   },
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "Awesome-Layer-2/awesome-layer-2",
-    "stargazers_count": 329,
+    "stargazers_count": 330,
     "open_issues_count": 1,
     "forks_count": 62
   },
@@ -165,18 +171,12 @@
     "full_name": "sekoyo/react-image-crop",
     "stargazers_count": 3871,
     "open_issues_count": 66,
-    "forks_count": 344
+    "forks_count": 343
   },
   {
     "full_name": "syntacticsolutions/react-navigation-menu",
     "stargazers_count": 21,
     "open_issues_count": 28,
     "forks_count": 13
-  },
-  {
-    "full_name": "5t3ph/stylestage",
-    "stargazers_count": 2161,
-    "open_issues_count": 7,
-    "forks_count": 226
   }
 ]
